@@ -1,2 +1,1 @@
-# small_pdf
-Contains a very small PDF document
+This is just a repo containing a very small PDF document. It's intended to be used in scenarios where you need to transfer a PDF document via Base64 and don't want the encoded string to clutter your screen.
