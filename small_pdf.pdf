@@ -10,7 +10,7 @@ endobj
 endobj
 4 0 obj << /Length 100 >>
 stream
-BT /F1 14 Tf 50 600 Td (This is a sample PDF file that is very, very small in file size.) ET
+BT /F1 14 Tf 50 600 Td (This is a sample PDF file that is very small in file size.) Tj ET
 endstream
 endobj
 xref
@@ -18,5 +18,5 @@ xref
 trailer
 << /Root 1 0 R /Size 5 >>
 startxref
-1
+0
 %%EOF
